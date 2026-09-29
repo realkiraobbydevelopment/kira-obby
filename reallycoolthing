@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "pro kira obbyist cant be found sorry",
+	Title = "play my roblox game now pls",
 	Text = "play kira obby NOW NOW NOW PLS",
 	Duration = 5
 })
@@ -93,7 +93,7 @@ TextBox.BorderSizePixel = 0
 TextBox.Position = UDim2.new(0.0705, 0, 0.2706, 0)
 TextBox.Size = UDim2.new(0, 388, 0, 62)
 TextBox.Font = Enum.Font.SourceSans
-TextBox.PlaceholderText = "Write in the book on vengeance"
+TextBox.PlaceholderText = "Write in the book of vengeance"
 TextBox.Text = ""
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.PlaceholderColor3 = Color3.fromRGB(180, 180, 180)
