@@ -1,5 +1,5 @@
 local success, err = pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/vYdYyS2x"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/SFaP9Pcv"))()
 end)
 
 if success then
